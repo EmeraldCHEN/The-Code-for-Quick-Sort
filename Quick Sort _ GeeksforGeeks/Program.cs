@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Quick_Sort___GeeksforGeeks
+namespace Quick Sort
 {
     class Program
     {
